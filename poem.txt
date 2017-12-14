@@ -1,4 +1,4 @@
-Testo
+Testo Incredibile sulle lettere
 
 A
 B
@@ -12,3 +12,5 @@ I
 L
 M
 N
+
+Adesso conosci metà alfabeto
